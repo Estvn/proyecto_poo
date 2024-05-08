@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+ul.dropdown-menu :hover, #totalVideos, #cancelFormButton{
+	
+	background-color: #db3343;
+	
+}
+
+#academicVideos, #nonEducationalVideos, .btn-about, #saveFormButton{
+	
+	background-color: #24b389;
+
+}
+
+.btn-about :hover{
+	
+	background-color: rgb(38, 162, 105);
+}
+
+.card-body #academicType, #scientificType{
+
+	background-color:  #aed5e1;
+
+}
+
+.card-body #entertainmentType, #otherType{
+
+	background-color:  #e0e7ef;
+
+}
+
+.card-body .blue-color-font{
+	
+	color: #26477b ; 
+}
+
+.card-title, #saveFormButton, #cancelFormButton{
+	
+	color: white;
+}
+
+#nVideos{
+	
+	color: white;
+	font-size: 4em;
+}
+
+#VideoSection{
+
+	position: fixed;
+	overflow-x: hidden; 
+	overflow-y: scroll; 
+	width: 100%; 
+	border: 1px solid
+}
+
+.watchVideoButton{
+	
+	background-color: #32936F;
+	color: white;
+
+}
+
+.videoCard{
+	
+	border-style: none;
+}
+
+
+
+
+
+
